@@ -1,6 +1,6 @@
 <!-- 🎯 Banner -->
 <p align="center style="margin-bottom: -30px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Yateesh%20Vetcha&fontSize=60&animation=fadeIn" alt="Yateesh Vetcha" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Vetcha%20Yateesh&fontSize=60&animation=fadeIn" alt="Vetcha Yateesh" />
 </p>
 <!-- ✅ Typing Role Animation -->
 <p align="center">
@@ -71,7 +71,7 @@
 
 ## 🎯 Vision
 
-- 📊 *Become a data-driven decision maker* using advanced analytics
+- 📊 *Become a data-driven decision maker*
 - 🌍 *Build real-world solutions* that solve genuine user pain-points
 - 🤖 *Contribute to AI & prompt engineering-based open source projects*
 
@@ -80,12 +80,10 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/green1210/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://linktr.ee/green_1210" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yateesh-vetcha-536a97281/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nagamanikanta1210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/green_1210" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_green_1210/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.com/users/1377321495788916749" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/yateesh_00/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  
   
 
 ---
