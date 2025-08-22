@@ -9,7 +9,7 @@
 
 <!-- ✨ Tagline -->
 <p align="center">
-  <b><i>Mastering data analytics, building intelligent web solutions, and pushing the boundaries of AI</i></b>
+  <b><i>Building intelligent web solutions, and pushing the boundaries of AI</i></b>
 </p>
 
 <!-- 🌈 Gradient Divider -->
@@ -19,7 +19,7 @@
 
 <!-- 🔍 Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=green1210&label=Profile+Views&color=0e75b6&style=flat-square" alt="green1210" />
+  <img src="https://komarev.com/ghpvc/?username=vetchayateesh&label=Profile+Views&color=0e75b6&style=flat-square" alt="vetchayateesh" />
 </p>
 
 <!-- 🏷 Skill Badges -->
@@ -30,8 +30,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Prompt%20Engineer-Creative-red?style=flat-square&logo=openai" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Data%20Analyst-In%20Progress-blue?style=flat-square&logo=google-analytics" />
-</p>
+  </p>
 
 
 
@@ -40,10 +39,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 **[Parul University](https://www.paruluniversity.ac.in/)**, Vadodara, Gujarat (Class of 2026)
-- 💻 *Full-Stack Developer (MERN), **AI/ML Enthusiast, **Data Analyst* & *Prompt Engineer*
+- 💻 *Full-Stack Developer (MERN) & *Prompt Engineer*
 - 🧠 Passionate about data insights, clean code, and scalable architectures
 - 🌐 *Languages*: Telugu • English • Hindi
-- ✨ *Fun Fact: My social name is **Green*!
+
 
 ---
 
@@ -69,22 +68,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| 🚀 Project               | 💡 Description                                                            | 🔗 Link      |
-|-------------------------|----------------------------------------------------------------------------|-------------|
-| *UniConnect*          | Campus portal for resources, feedback & issue reporting (Final Year BTP) | [Live](#)   |
-| *Zenlify*             | Scalable full-stack e-commerce app (MERN + Vite)                          | [Live](https://zenlify.vercel.app/)   |
-| *Reeltix*             | AI-generated movie ticket booking site using TMDB API                     | [Live](https://reeltix.vercel.app/)   |
-| *Portfolio Website*   | Minimal, modern personal portfolio built with React & TailwindCSS         | [Live](https://nagamanikanta.vercel.app/)   |
-| *Taskflow*            | Sleek Kanban-style task manager with auth (Node, Express, MongoDB)        | [Live](https://taskflow-seven-rho.vercel.app/)   |
-| *Library Management*     | CLI tool for book tracking using Python & MySQL                           | [Repo](https://github.com/green1210/Library_Management)   |
-| *TweetSentiment*      | Sentiment analysis on tweets using TF-IDF & Logistic Regression (~79% acc.) | [Repo](https://github.com/green1210/Sentiment_Analysis_on_Tweets)   |
-
-
-> 📌 Live demos & screenshots are available in respective repos.
-
----
 
 ## 🎯 Vision
 
@@ -108,5 +91,5 @@
 ---
 
 <p align="center">
-  Made with ❤ by <strong>Nagamanikanta Nallaganchu</strong>
+  Made with ❤ by <strong>Vetcha Yateesh</strong>
 </p>
