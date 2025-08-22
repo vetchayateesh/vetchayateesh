@@ -80,9 +80,23 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yateesh-vetcha-536a97281/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nagamanikanta1210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/yateesh_00/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yateesh-vetcha-536a97281/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vetchayateesh2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/yateesh_00/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Yateesh_1409/">
+    <img src="https://img.shields.io/badge/LeetCode-%23333333?style=for-the-badge&logo=leetcode&logoColor=#FFA116" />
+  </a>
+  <a href="https://www.hackerrank.com/vetchayateesh201/">
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
   
   
 
