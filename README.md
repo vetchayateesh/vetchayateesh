@@ -72,7 +72,7 @@
 ## 🎯 Vision
 
 - 📊 *Become a data-driven decision maker*
-- 🌍 *Build real-world solutions* that solve genuine user pain-points
+- 🌍 *Build real-world solutions* that solve genuine user pain-points*
 - 🤖 *Contribute to AI & prompt engineering-based open source projects*
 
 ---
