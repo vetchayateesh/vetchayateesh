@@ -39,7 +39,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **[Parul University](https://www.paruluniversity.ac.in/)**, Vadodara, Gujarat (Class of 2026)
-- 💻 *Full-Stack Developer (MERN) & *Prompt Engineer*
+- 💻 Full-Stack Developer (MERN) & *Prompt Engineer*
 - 🧠 Passionate about data insights, clean code, and scalable architectures
 - 🌐 *Languages*: Telugu • English • Hindi
 
